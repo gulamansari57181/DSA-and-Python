@@ -24,7 +24,6 @@ int main(){
     }
 
     // To show prefix sum array
-
     for(int i=0;i<num;i++){
         cout<<nums[i]<<"\t";
     }
